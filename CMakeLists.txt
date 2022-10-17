@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.14)
 
-project(libffi-boilerplate)
+project(libffi-playground)
 
 SET(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS} -static")
 
